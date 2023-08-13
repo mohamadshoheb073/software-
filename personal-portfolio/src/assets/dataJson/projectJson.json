@@ -1,0 +1,139 @@
+[
+  {
+    "projectIndex": 0,
+    "title": "Kanban - RESTful APIs",
+    "imgThumbnail": "https://drive.google.com/uc?export=view&id=1YmfDwmox--MaVXbadP8cMEkw54dfSDNx",
+    "description": "I developed a web portal called Kanban Board using React JS and Spring Boot. The goal of the project was to create a tool that could manage and assign work to team members, and be reviewed and managed by the admin and managers. The frontend of the portal was developed using React JS, while the RESTFul APIs were developed using Spring Boot. With this web portal, users can easily track and organize their work, ensuring that projects are completed efficiently and effectively. The Kanban Board is a valuable resource for teams looking to streamline their workflow and increase productivity.",
+    "about": [
+      {
+        "title": "Project Flow",
+        "type": "plain",
+        "imgUrl": "https://cdn-proxy.slickplan.com/imgs/artwork/sample-process-flow.svg",
+        "description": "Based on the requirements, product goals, and core problems I have concluded this Project Flow for the client."
+      }
+    ],
+    "projectImages": [
+      {
+        "title": "1. Login and Sign up page for the web application",
+        "imgUrl": "https://drive.google.com/uc?export=view&id=1V6Six4PHVHMETRorMbdC4BydbErcqva7"
+      },
+      {
+        "title": "2. Dashboard of the Task Manager",
+        "imgUrl": "https://drive.google.com/uc?export=view&id=1YmfDwmox--MaVXbadP8cMEkw54dfSDNx"
+      },
+      {
+        "title": "3. Create/Add and Update Task Modal UIUX",
+        "imgUrl": "https://drive.google.com/uc?export=view&id=156wYZMa47eFDub-0RLKsPBkIY3yo-enq"
+      },
+      {
+        "title": "4. Task Details and Drag & Drop functionality",
+        "imgUrl": "https://drive.google.com/uc?export=view&id=1Z-mRHcLGRksAuNjgfMo7cpnr_KmY4LDy"
+      }
+    ],
+    "conclusionTitle": "",
+    "conclusionDescription": "",
+    "client": "Betsol Softwares",
+    "timeline": "July 2022 - August 2022",
+    "type": "REST API and Web Application",
+    "projectLiveUrl": "https://kanbanboard-web.netlify.app/",
+    "works": ["Web Application", "API Development"],
+    "tools": ["React.Js, JavaScript", "Spring Boot, Spring, Security, Java"]
+  },
+  {
+    "projectIndex": 1,
+    "title": "Takniik - Business Website",
+    "imgThumbnail": "https://drive.google.com/uc?export=view&id=19zhQcGVm98i1sAriqj8BQLwD73JEg5-z",
+    "description": "I developed a web application for Takniik, a startup that provides development and design services to other businesses. The application, built using React JS, features a page that showcases the company's services and includes customer testimonials. I also implemented a blog panel that allows the admin to easily post and manage multiple blogs. The goal of the project was to create a professional and engaging website for Takniik that effectively communicates the company's offerings and establishes its credibility in the industry. I worked closely with the client to understand their needs and ensure that the final product met their expectations. Overall, the project was a success and the client was very satisfied with the result.",
+    "about": [""],
+    "projectImages": [
+      {
+        "title": "1. Hero, Client, and Services Section",
+        "imgUrl": "https://drive.google.com/uc?export=view&id=19zhQcGVm98i1sAriqj8BQLwD73JEg5-z"
+      },
+      {
+        "title": "2. Work details, Call to Action, and Review Section",
+        "imgUrl": "https://drive.google.com/uc?export=view&id=1Q_D0TacWHyOXxJGuYIKVl2GjRQZhFOQ3"
+      },
+      {
+        "title": "3. About and Teams Section",
+        "imgUrl": "https://drive.google.com/uc?export=view&id=1NqqWArz3uMduda_dbrWZuQsu527hUU5q"
+      },
+      {
+        "title": "4. Glassmorphism effect for the contact page",
+        "imgUrl": "https://drive.google.com/uc?export=view&id=1lak-97niuJiJnXk6i9zMFgfRPjxVua40"
+      },
+      {
+        "title": "5. Service Description Page - 1",
+        "imgUrl": "https://drive.google.com/uc?export=view&id=16XWt2o2JSe2cfVsXdEpTH5vTeEkmOptF"
+      },
+      {
+        "title": "6. Service Description Page - 2",
+        "imgUrl": "https://drive.google.com/uc?export=view&id=11Vsm-cbRMqam2NCy32sSZqZn0bLM0azZ"
+      }
+    ],
+    "conclusionTitle": "",
+    "conclusionDescription": "",
+    "client": "Takniik",
+    "timeline": "November 2022 - December 2022",
+    "type": "Business Website",
+    "projectLiveUrl": "https://takniik.com/",
+    "works": ["Business Website", "Landing Page"],
+    "tools": ["HTML5, CSS 3", "React.Js, JavaScript"]
+  },
+  {
+    "projectIndex": 2,
+    "title": "TechBitCoin - Crypto Trading Web Portal",
+    "imgThumbnail": "https://drive.google.com/uc?export=view&id=1hgxqgL7cH0dxP9HhNDsjhF5sVJR6jXGM",
+    "description": "I worked on a project to develop a secure web portal using Spring Boot to enable easy purchase and access to TechBit Crypto (Cryptocurrency) from a single platform. The main objective of the project was to make the process of purchasing and trading cryptocurrency simpler and more secure. One of the significant features of the platform is the implementation of a robust 3-level MLM referral system to promote the platform and increase user engagement. This referral system allowed users to invite their friends and family to the platform and earn a commission for every successful referral. To ensure secure and seamless transactions, I successfully optimized and integrated Coin payment gateway APIs, reducing the latency time by 80% from 10 seconds to 2 seconds. This ensured that users can make quick and hassle-free transactions on the platform without any delays or interruptions. Additionally, I revamped the user KYC verification process by integrating REST APIs and hierarchical authentication. This allowed for a more stringent verification process, reducing the number of non-verified users by 60% and enhancing the security of user data. The project utilized technologies such as Java, Spring-Boot, and MySQL to deliver these functionalities.",
+    "about": [
+      {
+        "title": "",
+        "type": "",
+        "imgUrl": "",
+        "description": ""
+      }
+    ],
+    "projectImages": [
+      {
+        "title": "1. User Dashboard Panel",
+        "imgUrl": "https://drive.google.com/uc?export=view&id=1hgxqgL7cH0dxP9HhNDsjhF5sVJR6jXGM"
+      },
+      {
+        "title": "2. Package Purchase Panel",
+        "imgUrl": "https://drive.google.com/uc?export=view&id=1aF0ZjORlUzk2IFQMDY4ktQ9m5fjJKBpt"
+      },
+      {
+        "title": "3. Referal Earning and Referal History Panel",
+        "imgUrl": "https://drive.google.com/uc?export=view&id=1SDsJwvcstVXUk5CXf8HovHii3VcmfGDv"
+      },
+      {
+        "title": "4. TechBitCoin Purchase History",
+        "imgUrl": "https://drive.google.com/uc?export=view&id=1WPMb_zJT1y1in35fsfffQT_wNoX0ALre"
+      },
+      {
+        "title": "5. All Users Data and Control Panel",
+        "imgUrl": "https://drive.google.com/uc?export=view&id=18ixJH0TlXCOrrkiNMlRUtoKuCD8DTCtl"
+      },
+      {
+        "title": "6. All Users Package Purchased History Panel",
+        "imgUrl": "https://drive.google.com/uc?export=view&id=1_TjU4yHGAGexSRcuFz1VMcQXeXuEl_6g"
+      },
+      {
+        "title": "7. KYC Verificaiton Panel",
+        "imgUrl": "https://drive.google.com/uc?export=view&id=1IAMl39DOUs-DYN7gJAckJaukjZUjo_2o"
+      },
+      {
+        "title": "8. User Profile Panel",
+        "imgUrl": "https://drive.google.com/uc?export=view&id=1wK7js9u92o2pKfX2x4IPbWEeB7NzRkdD"
+      }
+    ],
+    "conclusionTitle": "",
+    "conclusionDescription": "",
+    "client": "TechBitCoin",
+    "timeline": "October 2022 - November 2022",
+    "type": "REST API and Web Application",
+    "projectLiveUrl": "https://www.techbitcrypto.com/",
+    "works": ["Web Application", "API Development"],
+    "tools": ["Bootstrap, JavaScript", "Java, Spring Boot, Spring Security"]
+  }
+]
